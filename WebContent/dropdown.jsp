@@ -11,28 +11,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-<table class="table">
-	<tr>
-		<th>Lorem.</th>
-		<th>Pariatur.</th>
-		<th>Eos.</th>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Temporibus.</td>
-		<td>Odio?</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Placeat.</td>
-		<td>Eius.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Aspernatur!</td>
-		<td>Repellendus.</td>
-	</tr>
-</table>
-
+<div class="dropdown">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+      Dropdown button
+    </button>
+    <div class="dropdown-menu">
+    <div class="dropdown-header">Dropdown header</div>
+      <a class="dropdown-item" href="#">Link 1</a>
+      <a class="dropdown-item" href="#">Link 2</a>
+      <a class="dropdown-item" href="#">Link 3</a>
+      <div class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">Link 4</a>
+      
+    </div>
+  </div>
 </body>
 </html>

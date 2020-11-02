@@ -11,28 +11,54 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div class="container">
+	<table class="table">
+		<tr>
+			<th>Lorem.</th>
+			<th>Aut.</th>
+			<th>Distinctio.</th>
+		</tr>
+		<tr>
+			<td>Lorem.</td>
+			<td>Error.</td>
+			<td>Nulla.</td>
+		</tr>
+		<tr>
+			<td>Lorem.</td>
+			<td>Dolorum?</td>
+			<td>Quaerat.</td>
+		</tr>
+		<tr>
+			<td>Lorem.</td>
+			<td>Perspiciatis.</td>
+			<td>Sed.</td>
+		</tr>
+	</table>
+</div>
+
+<div class="container-fluid">
 <table class="table">
 	<tr>
 		<th>Lorem.</th>
-		<th>Pariatur.</th>
-		<th>Eos.</th>
+		<th>Quis.</th>
+		<th>Ipsa.</th>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Temporibus.</td>
-		<td>Odio?</td>
+		<td>Nam!</td>
+		<td>Odio.</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Placeat.</td>
-		<td>Eius.</td>
+		<td>Est.</td>
+		<td>Nihil.</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Aspernatur!</td>
+		<td>Alias!</td>
 		<td>Repellendus.</td>
 	</tr>
 </table>
-
+</div>
 </body>
 </html>
